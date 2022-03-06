@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/website?down_color=lightgrey&up_color=green" alt="Website Badge"/
     >
     </a>
-    <img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
-    
+    <img alt="Website" href="https://grahamzemel.com" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
+
   <a href="www.linkedin.com/in/grahamzemel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
