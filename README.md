@@ -62,9 +62,12 @@ I am a Full Stack Developer from Connecticut, USA.
 ---
 ### :fire: My Stats :
 
+![Overview](https://github.com/gzemel/github-stats/blob/master/generated/overview.svg)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gzemel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzemel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 ### Can't get enough? Visit my website, linked below :
