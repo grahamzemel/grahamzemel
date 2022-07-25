@@ -70,4 +70,4 @@ I am a Full Stack Developer from Connecticut, USA.
 ---
 ### Can't get enough? Visit my website, linked below :
 
- - https://grahamzemel.com
+ - https://grahamzemel.xyz
