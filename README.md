@@ -36,9 +36,9 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Connecticut, USA.
 
-- :telescope: I’m studying as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m studying as a Software Engineer and contributing to frontend and backend web applications.
 
-- :seedling: Exploring creating discord bots.
+- :seedling: Exploring creating blogging sites, and more front-end development.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
