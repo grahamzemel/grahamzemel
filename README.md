@@ -1,6 +1,6 @@
 <div id="badges" align="center">
-    <a href="https://grahamzemel.com">
-    <img alt="Website"  src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
+    <a href="https://grahamzemel.xyz">
+    <img alt="Website"  src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.xyz">
 </a>
   <a href="https://www.linkedin.com/in/grahamzemel">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +10,7 @@
 
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=gzemel&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gzemel&style=flat-square&color=gray" alt=""/>
 </div>
 
 
@@ -20,10 +20,6 @@
   Hey there! I'm Graham
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -56,7 +52,7 @@ I am a Full Stack Developer from Connecticut, USA.
 ---
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gzemel&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gzemel&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=4A6B88&ring=9C9C9C&background=000000&stroke=4A6B88&currStreakNum=DDDDDD&sideNums=9C9C9C&currStreakLabel=4A6B88&sideLabels=4A6B88&dates=DDDDDD)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzemel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -64,7 +60,8 @@ I am a Full Stack Developer from Connecticut, USA.
 ---
 ### Can't get enough? Visit my website, linked below :
 
- - [grahamzemel.xyz](https://grahamzemel.xyz/)
+ - [grahamzemel.xyz](https://grahamzemel.xyz/)  
+
 ## The Gray Area (coming VERY soon...):
 
  - [grayarea.grahamzemel.xyz](https://grayarea.grahamzemel.xyz/)
