@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
-
 <div id="badges" align="center">
     <a href="https://grahamzemel.com">
     <img alt="Website"  src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
@@ -36,13 +30,13 @@
 ### :man_technologist: About Me :
 I am a Full Stack Developer from Connecticut, USA.
 
-- :telescope: I’m studying as a Software Engineer and contributing to frontend and backend web applications.
+- :telescope: I’m studying as a Full-Stack Developer and Cybersecurity enthusiast currently working on web application pen-testing and development. 
 
-- :seedling: Exploring creating blogging sites, and more front-end development.
+- :seedling: Exploring writing, [blogging in particlular](https://medium.com/@grahamzemel), creating [blogging sites](https://grayarea.grahamzemel.xyz/), and [automated hacking scripts](https://github.com/gzemel/WebHeckScanner)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I hunt for bugs on HackerOne, and read a lot about new topics in the ever-evolving world of technology.
 
-- :mailbox: How to reach me: grahamzemel126@gmail.com
+- :mailbox: How to reach me: grahamzemel126@gmail.com. I'm also available for contact on my website, [grahamzemel.xyz](https://grahamzemel.xyz/)
 
 ---
 
@@ -70,4 +64,7 @@ I am a Full Stack Developer from Connecticut, USA.
 ---
 ### Can't get enough? Visit my website, linked below :
 
- - https://grahamzemel.xyz
+ - [grahamzemel.xyz](https://grahamzemel.xyz/)
+## The Gray Area (coming VERY soon...):
+
+ - [grayarea.grahamzemel.xyz](https://grayarea.grahamzemel.xyz/)
