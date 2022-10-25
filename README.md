@@ -2,7 +2,8 @@
     <a href="https://grahamzemel.com">
     <img alt="Website"  src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
 </a>
-
+    
+<a href="https://wakatime.com/@ce654039-a09d-4700-994f-1486d4dec180"><img src="https://wakatime.com/badge/user/ce654039-a09d-4700-994f-1486d4dec180.svg" alt="Total time coded since Oct 25 2022" /></a>
 
 
 </div>
