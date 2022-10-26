@@ -1,3 +1,12 @@
+
+
+
+<div align="center">
+<h1>
+  Hey there! I'm Graham
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
 <div id="badges" align="center">
     <a href="https://grahamzemel.com">
     <img alt="Website"  src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
@@ -9,15 +18,6 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=grahamzemel&style=flat-square&color=gray" alt=""/>
-</div>
-
-
-
-<div align="center">
-<h1>
-  Hey there! I'm Graham
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
 ---
