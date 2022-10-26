@@ -62,8 +62,8 @@ I'm Full Stack Developer and Cybersecurity enthusiast from the US of A.
 ---
 ### Can't get enough? Visit my website, linked below :
 
- - [grahamzemel.xyz](https://grahamzemel.com/)  
+ - [grahamzemel.com](https://grahamzemel.com/)  
 
 ## The Gray Area (coming VERY soon...):
 
- - [grayarea.grahamzemel.xyz](https://grayarea.grahamzemel.com/)
+ - [grayarea.grahamzemel.com](https://grayarea.grahamzemel.com/)
