@@ -53,8 +53,6 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 ---
 ### :fire: My Stats :
 
-![Anurag's GitHub stats]()
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grahamzemel)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/grahamzemel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamzemel&repo=github-readme-stats&theme=transparent" />
 </a>
