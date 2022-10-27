@@ -3,34 +3,32 @@
 
 <div align="center">
 <h1>
-  Hey there! I'm Graham
+  Hey there! I'm Graham Zemel
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 <div id="badges" align="center">
     <a href="https://grahamzemel.com">
     <img alt="Website"  src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fgrahamzemel.com">
-</a>
-    
-<a href="https://wakatime.com/@ce654039-a09d-4700-994f-1486d4dec180"><img src="https://wakatime.com/badge/user/ce654039-a09d-4700-994f-1486d4dec180.svg" alt="Total time coded since Oct 25 2022" /></a>
-
+    </a>
+    <a href="https://wakatime.com/@ce654039-a09d-4700-994f-1486d4dec180"><img src="https://wakatime.com/badge/user/ce654039-a09d-4700-994f-1486d4dec180.svg" alt="Total time coded since Oct 25 2022" /></a>
+  <a href="https://grahamzemel.com"><img src="https://komarev.com/ghpvc/?username=grahamzemel&style=flat-square&color=gray" alt=""/></a>
 
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=grahamzemel&style=flat-square&color=gray" alt=""/>
 </div>
 
 ---
 ### :man_technologist: About Me :
-I'm Full Stack Developer and Cybersecurity enthusiast from the US of A.
+I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
-- :telescope: I’m studying as a Full-Stack Developer and currently working on web application pen-testing and development. 
+- :telescope: I’m studying mobile and web development, and currently working on web application pen-testing and automation programs. 
 
 - :seedling: Exploring writing, [blogging in particlular](https://grahamzemel.medium.com/), creating [blogging sites](https://grayarea.grahamzemel.com/), and [automated hacking scripts](https://github.com/grahamzemel/WebHeckScanner)
 
 - :zap: In my free time, I hunt for bugs on HackerOne, and read a lot about new topics in the ever-evolving world of technology.
 
-- :mailbox: How to reach me: grahamzemel126@gmail.com. I'm also available for contact on my website, [grahamzemel.com](https://grahamzemel.com/)
+- :mailbox: Contact me using the form on my website: [grahamzemel.com](https://grahamzemel.com/contact)
 
 ---
 
@@ -55,8 +53,14 @@ I'm Full Stack Developer and Cybersecurity enthusiast from the US of A.
 ---
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=radical)
+![Anurag's GitHub stats]()
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=grahamzemel)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/grahamzemel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamzemel&repo=github-readme-stats&theme=transparent" />
+</a>
+<a href="https://github.com/grahamzemel/WebHeckScanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=grahamzemel&repo=WebHeckScanner&theme=transparent" />
+</a>
 
 
 ---
