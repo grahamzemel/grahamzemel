@@ -57,7 +57,7 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/grahamzemel/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=grahamzemel&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=grahamzemel&layout=compact&theme=transparent" />
 </a>
 
 
