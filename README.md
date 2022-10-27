@@ -54,10 +54,10 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 ### :fire: My Stats :
 
 <a href="https://github.com/grahamzemel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=transparent&border_color=0e1117&card_width=350px" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=transparent&border_color=0e1117" />
 </a>
 <a href="https://github.com/grahamzemel/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=grahamzemel&layout=compact&theme=transparent&border_color=0e1117&card_width=350px" />
+  <img width="49%" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=grahamzemel&layout=compact&theme=transparent&border_color=0e1117" />
 </a>
 
 
