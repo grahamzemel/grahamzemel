@@ -24,7 +24,7 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
 - :telescope: I’m studying mobile and web development, and currently working on web application pen-testing and automation programs. 
 
-- :seedling: Exploring writing, [blogging in particlular](https://grahamzemel.medium.com/), creating [blogging sites](https://grayarea.grahamzemel.com/), and [automated hacking scripts](https://github.com/grahamzemel/WebHeckScanner)
+- :seedling: Exploring writing, [blogging in particlular](https://grahamzemel.medium.com/), creating [blogging sites](https://grayarea.grahamzemel.com/), and [automated bot / hacking scripts](https://github.com/grahamzemel/WebHeckScanner)
 
 - :zap: In my free time, I hunt for bugs on HackerOne, and read a lot about new topics in the ever-evolving world of technology.
 
