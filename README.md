@@ -30,6 +30,13 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
 - :mailbox: Contact me using the form on my website: [grahamzemel.com](https://grahamzemel.com/contact)
 
+- 💲 Support me through [my Patreon](https://patreon.com/grahamzemel) to access the following:
+
+~ Shout outs on [Twitter](https://twitter.com/grahamzemel) and [Medium](https://blog.grahamzemel.com)  
+~ Private source code to some of my projects  
+~ Weekly newsletters on bug bounties and computer science  
+~ Personal contact information for my most loyal supporters  
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
