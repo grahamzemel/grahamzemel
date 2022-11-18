@@ -69,13 +69,13 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
 
 ---
-### Can't get enough? Visit my website, linked below :
+### Visit my website, linked below :
 
  - [grahamzemel.com](https://grahamzemel.com/)  
 
-## The Gray Area (coming VERY soon...):
+## My publication, The Gray Area:
 
- - [grayarea.grahamzemel.com](https://grayarea.grahamzemel.com/)
+ - [medium.com/the-gray-area](https://medium.com/the-gray-area)
  
-## Access to exclusive posts / newsletters / benefits:
+## Exclusive benefits:
  - [patreon.com/grahamzemel](https://patreon.com/grahamzemel)
