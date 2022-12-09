@@ -75,7 +75,7 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
 ## My publication, The Gray Area:
 
- - [medium.com/the-gray-area](https://medium.com/the-gray-area)
+ - [thegrayarea.tech](https://thegrayarea.tech)
  
 ## Exclusive benefits:
  - [patreon.com/grahamzemel](https://patreon.com/grahamzemel)
