@@ -24,18 +24,13 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
 - :telescope: I’m studying mobile and web development, and currently working on web application pen-testing and automation programs. 
 
-- :seedling: Exploring writing, [blogging in particlular](https://grahamzemel.medium.com/), creating [blogging sites](https://grayarea.grahamzemel.com/), and [automated bot / hacking scripts](https://github.com/grahamzemel/WebHeckScanner)
+- :seedling: Exploring [writing](https://grahamzemel.medium.com/) and [automated bot / hacking scripts](https://github.com/grahamzemel/WebHeckScanner)
 
 - :zap: In my free time, I hunt for bugs on HackerOne, and read a lot about new topics in the ever-evolving world of technology.
 
 - :mailbox: Contact me using the form on my website: [grahamzemel.com](https://grahamzemel.com/contact)
 
-- 💲 Support me through [my Patreon](https://patreon.com/grahamzemel) to access the following:
-
-~ Shout outs on [Twitter](https://twitter.com/grahamzemel) and [Medium](https://blog.grahamzemel.com)  
-~ Private source code to some of my projects  
-~ Weekly newsletters on bug bounties and computer science  
-~ Personal contact information for my most loyal supporters  
+- 💲 Support me through [my gumroad](https://store.grahamzemel.com) to access private code and bug bounty secrets!
 
 ---
 
@@ -77,5 +72,5 @@ I'm a full-stack developer, cybersecurity programmer, and IT enthusiast.
 
  - [thegrayarea.tech](https://thegrayarea.tech)
  
-## Exclusive benefits:
- - [patreon.com/grahamzemel](https://patreon.com/grahamzemel)
+## Extra cool stuff:
+ - [store.grahamzemel.com](https://store.grahamzemel.com)
