@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hey, I'm Graham Zemel 👋
-
-**Director of Technology @ CU Boulder IFC · Full-stack developer · Bug bounty hunter**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2ECC71&height=230&section=header&text=Graham%20Zemel&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Director%20of%20Technology%20%40%20CU%20Boulder%20IFC%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Bug%20Bounty%20Hunter&descAlignY=55&descSize=18&animation=fadeIn" alt="header"/>
 
 <p>
   <a href="https://grahamzemel.com"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=2ECC71&up_message=online&url=https%3A%2F%2Fgrahamzemel.com&style=for-the-badge"></a>
@@ -157,8 +155,11 @@ Collaborative project exploring game economy and inventory mechanics, built with
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grahamzemel&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=grahamzemel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=grahamzemel&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</div>
+<div align="center">
+  <img src="https://github-trophies.devomb.com/?username=grahamzemel&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub trophies"/>
 </div>
 
 <br/>
@@ -170,3 +171,5 @@ Collaborative project exploring game economy and inventory mechanics, built with
   <a href="https://thegrayarea.tech"><img src="https://img.shields.io/badge/Publication-The_Gray_Area-2ECC71?style=for-the-badge" alt="The Gray Area"/></a>
   <a href="https://store.grahamzemel.com"><img src="https://img.shields.io/badge/Store-store.grahamzemel.com-2ECC71?style=for-the-badge" alt="Store"/></a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2ECC71,50:2C5364,100:0F2027&height=120&section=footer"/>
