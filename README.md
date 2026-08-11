@@ -1,14 +1,14 @@
 <div align="center">
 
-<a href="https://grahamzemel.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=560&lines=Hey+there%2C+I'm+Graham+Zemel;Director+of+Technology+%40+CU+Boulder+IFC;I+ship+platforms+used+by+thousands+of+people;Full-stack+dev+%2B+bug+bounty+hunter" alt="Typing SVG" />
-</a>
+# Hey, I'm Graham Zemel 👋
+
+**Director of Technology @ CU Boulder IFC · Full-stack developer · Bug bounty hunter**
 
 <p>
   <a href="https://grahamzemel.com"><img alt="Website" src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=2ECC71&up_message=online&url=https%3A%2F%2Fgrahamzemel.com&style=for-the-badge"></a>
   <a href="https://wakatime.com/@ce654039-a09d-4700-994f-1486d4dec180"><img src="https://wakatime.com/badge/user/ce654039-a09d-4700-994f-1486d4dec180.svg?style=for-the-badge" alt="Total time coded since Oct 25 2022" /></a>
   <a href="https://www.linkedin.com/in/grahamzemel"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://grahamzemel.com/contact"><img src="https://img.shields.io/badge/Contact-Me-2ECC71?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact"/></a>
+  <a href="https://grahamzemel.com/contact"><img src="https://img.shields.io/badge/Contact-Me-2ECC71?style=for-the-badge" alt="Contact"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=grahamzemel&style=for-the-badge&color=2ECC71&label=PROFILE+VIEWS" alt="Profile views"/>
@@ -157,11 +157,8 @@ Collaborative project exploring game economy and inventory mechanics, built with
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=algolia&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grahamzemel&layout=compact&theme=algolia&hide_border=true&bg_color=00000000&title_color=2ECC71" alt="Top languages"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=grahamzemel&theme=algolia&hide_border=true&background=00000000&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=grahamzemel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grahamzemel&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top languages"/>
 </div>
 
 <br/>
